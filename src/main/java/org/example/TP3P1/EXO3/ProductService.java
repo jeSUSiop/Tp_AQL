@@ -1,4 +1,4 @@
-package org.example.TP3P1.EXO1.EXO3;
+package org.example.TP3P1.EXO3;
 
 public class ProductService {
 

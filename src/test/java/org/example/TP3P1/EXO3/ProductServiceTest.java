@@ -1,4 +1,4 @@
-package org.example.TP3P1.EXO1.EXO3;
+package org.example.TP3P1.EXO3;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
